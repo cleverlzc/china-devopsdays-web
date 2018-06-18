@@ -2,15 +2,14 @@
 title: "招募社区志愿者的通知"
 date: 2018-03-28T06:44:46+08:00
 draft: false
-banner: https://china-devopsdays.github.io/old/IMG_0210.jpg
-author: "刘征"
+banner: "/img/blog-bg.jpg"
+author: "组织者征"
 tags: ["devops","志愿者"]
-categories: ["devops"]
+categories: ["社区"]
+summary: "社区知道思想：中国DevOpsDays的核心组织者们紧紧地围绕着加速经验分享、知识传播和实践推广的工作目标，以提升和优化IT行业的素质和文化为主线。"
 ---
 
-
-
-![IMG_0091](https://china-devopsdays.github.io/old/IMG_0210.jpg)
+![IMG_0091](/old/IMG_0210.jpg)
 
 
 ## 指导思想
@@ -37,11 +36,7 @@ categories: ["devops"]
 ## 参与报名
 请扫下方的二维码报名。
 
-![VOLUNTEERS](https://china-devopsdays.github.io/old/VOLUNTEERS.png)
+![VOLUNTEERS](/old/VOLUNTEERS.png)
 
 
-对首批报名并确认参加的社区志愿者朋友们，准备下面的见面礼：
 
-- DevOpsDays北京站定制版T-shirt
-- 《DevOps实践指南》一本
-- 其它惊喜随后陆续公布
